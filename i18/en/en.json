@@ -1,0 +1,154 @@
+{
+    "menu": [
+        "Profile",
+        "Skills",
+        "Experience",
+        "Education",
+        "Education",
+        "Strengths",
+        "Languages",
+        "Contact"
+    ],
+    "profil": {
+  },
+    "competence": {
+        "tech": "Technical Skills",
+        "topicLanguage": "Programming Languages",
+        "topicMethod": "Work Methods & CI/CD",
+        "topicTool": "Tools & Environments",
+        "language": [
+            "Front-End: HTML5, CSS3, JavaScript",
+            "Back-End: PHP, Python, Java, C#, Scala, Node.js",
+            "Frameworks: React.js, Next.js, Express.js, Django, Node.js, Vue.js, Spring Boot, Angular",
+            "Unit Testing: JUnit, PyTest",
+            "CMS & ERP: Odoo, WordPress",
+            "Databases: MySQL, PostgreSQL, MongoDB, SQLite, DAX",
+            "Modeling & Design: UML, MERISE",
+            "Data & BI: Power BI, Excel, Excel VBA"
+        ],
+        "methode": [
+            "Agile: Scrum",
+            "DevOps: Ansible, Terraform",
+            "Project Management: Trello, Redmine",
+            "CI/CD: Jenkins, Azure DevOps",
+            "Deployment & Automation: Docker, Kubernetes, Heroku"
+        ],
+        "tools": [
+            "Systems: Linux (Ubuntu/Debian/Fedora), Unix, Windows Server",
+            "Security: Authentication (MFA, OAuth2)",
+            "Other Tools: Forgejo, GitHub, Bruno, PostMan, Bitbucket, Figma"
+        ]
+    },
+    "experience": {
+        "title": "Professional Experience",
+        "experience": [
+            {
+                "title": "Vice President of the NGO Charity Against Hunger",
+                "date": "Since 2021",
+                "company": "Charity Against Hunger",
+                "location": "Yaounde, Central, Cameroon",
+                "link": "https://www.facebook.com/CAHorg/",
+                "detail": []
+            },
+            {
+                "title": "FullStack Developer",
+                "date": "From February 2025 to August 2025",
+                "company": "ETS MOSAIK",
+                "location": "Yaounde, Central, Cameroon",
+                "link": "https://www.laurata.com/",
+                "detail": [
+                    "Objective: Develop a web application aimed at improving the quality of training and enhancing employability of young Cameroonian graduates for better professional integration.",
+                    "Front-end: Design and integration of responsive web interfaces with Next.js and Tailwind CSS.",
+                    "Back-end: Development of business services in Java (secure REST APIs, user management).",
+                    "Database: Creation and administration of the database with PostgreSQL.",
+                    "Collaboration & Tools: Agile teamwork, code management with Bruno and Forgejo, task tracking on Forgejo."
+                ]
+            },
+            {
+                "title": "FullStack Developer",
+                "date": "January 2025",
+                "company": "Stream-it",
+                "location": "Yaounde, Central, Cameroon",
+                "link": "https://www.laurata.com/",
+                "detail": [
+                    "Objective: Design and implementation of the Stream-it.io website.",
+                    "Front-end: Design and integration of responsive web interfaces with Next.js and Tailwind CSS.",
+                    "Back-end: Development of business services in Django (secure REST APIs, user management).",
+                    "Collaboration & Tools: Code management with GitHub."
+                ]
+            },
+            {
+                "title": "Odoo Developer",
+                "date": "From April 2024 to January 2025",
+                "company": "Y-Note",
+                "location": "Yaoundé, Central, Cameroon",
+                "link": "https://y-note.cm/",
+                "detail": [
+                    "Objective: Design, customize, and integrate ERP solutions based on Odoo to meet business needs.",
+                    "Analyze internal processes (sales, purchases, HR, inventory, accounting) to adapt existing modules.",
+                    "Create and modify custom modules in Python (backend) and XML/JavaScript (frontend).",
+                    "Customize user interface and optimize QWeb views.",
+                    "Develop REST APIs and e-commerce connectors for external service integration.",
+                    "Ensure maintenance, technical support, and continuous module updates.",
+                    "Manage environments (development, testing, production).",
+                    "Collaboration & Tools: Agile teamwork, task tracking with Redmine, code management with Bitbucket."
+                ]
+            }
+        ]
+    },
+    "school": {
+        "title": "Education",
+        "bachelor": {
+            "degreeName": "Professional Bachelor's Degree in Application Design and Development",
+            "schoolName": "Institut Universitaire Saint Jean",
+            "place": "Yaoundé",
+            "date": "From 2021 to 2024",
+            "subject": [
+                "Client-server architecture",
+                "REST API development",
+                "Front/back integration",
+                "Database",
+                "Introduction to Big Data"
+            ]
+        },
+        "master": {
+            "degreeName": "Master 1 in Computer Science, Data & Artificial Intelligence",
+            "schoolName": "Ecole-IT",
+            "place": "Amiens",
+            "date": "Since September 2025",
+            "subject": [
+                "Python",
+                "Machine Learning",
+                "Big Data",
+                "Artificial Intelligence"
+            ]
+        }
+    },
+    "assets": {
+        "title": "Strengths",
+        "algorithm": "Good algorithmic thinking",
+        "adaptation": "Adaptability",
+        "service": "Service-oriented",
+        "communication": "Communication",
+        "organisation": "Organization and rigor",
+        "groupWork": "Teamwork",
+        "dynamism": "Dynamic"
+    },
+    "interest": {
+        "interest": "Interests",
+        "tech": "Following technological innovations",
+        "trip": "Travel",
+        "foot": "Soccer",
+        "babyFoot": "Foosball",
+        "videoGame": "Video Games",
+        "reading": "Reading"
+    },
+    "language": {
+        "language": "Languages",
+        "fr": "French",
+        "en": "English",
+        "ge": "German",
+        "native": "Native Language"
+    },
+    "footer": {}
+}

@@ -1,0 +1,304 @@
+{
+  "menu": [
+    "Profil",
+    "Compétences",
+    "Expériences",
+    "Projets",
+    "Formation"
+  ],
+  "profil": {
+    "fullname": "NAHSANG MERCY TANGHAM",
+    "headline": "Alternance - Data Analyst – Power BI | SQL | Python (12 à 24 mois)",
+    "about": "Étudiante en Master 1 Data & Intelligence Artificielle, spécialisée en analyse de données, reporting et data visualisation. Expérimentée sur Power BI, Excel, SQL et Python, avec une pratique concrète de la création de dashboards, d’indicateurs KPI et de l’automatisation des reportings. Capable de m’inscrire dans la durée au sein d’une équipe pour accompagner les métiers dans la prise de décision.",
+    "location": "France",
+    "contact": {
+      "email": "nahsangmercytangham@gmail.com",
+      "linkedin": "https://linkedin.com/in/nahsang-mercy/",
+      "github": "https://github.com/Authmercy/"
+    }
+  },
+  "expertise": {
+    "title": "Expertise",
+    "items": [
+      {
+        "title": "Cloud & DevOps",
+        "description": "Expérimentée dans le déploiement d’infrastructures scalables et l’automatisation avec Docker, Kubernetes, Terraform et des pipelines CI/CD sur GCP et Azure.",
+        "stack": [
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "Ansible",
+          "Git",
+          "GitLab CI/CD",
+          "Jenkins",
+          "Linux",
+          "GCP",
+          "AWS",
+          "Azure"
+        ]
+      },
+      {
+        "title": "IA, NLP & LLM",
+        "description": "Je développe des applications intelligentes basées sur des LLM modernes comme CamemBERT et OpenAI, intégrés avec LangChain et des pipelines NLP pour un impact réel.",
+        "stack": [
+          "LLM",
+          "NLP",
+          "CamemBERT",
+          "Hugging Face",
+          "LangChain",
+          "LlamaIndex",
+          "Qdrant",
+          "RAG",
+          "Machine Learning",
+          "Deep Learning",
+          "TensorFlow",
+          "PyTorch",
+          "Scikit-learn",
+          "OpenAI",
+          "Groq",
+          "Streamlit"
+        ]
+      },
+      {
+        "title": "Bases de données",
+        "description": "Maîtrise des bases de données relationnelles et NoSQL, notamment PostgreSQL, MongoDB et Snowflake, pour structurer et interroger efficacement de grands volumes de données.",
+        "stack": ["PostgreSQL", "MySQL", "MongoDB", "Snowflake", "SQL Server"]
+      },
+      {
+        "title": "Outils Data & Visualisation",
+        "description": "De Pandas à Power BI, j’utilise des outils variés pour nettoyer, manipuler et visualiser les données afin de produire des analyses claires et orientées décision.",
+        "stack": [
+          "Pandas",
+          "NumPy",
+          "BeautifulSoup",
+          "Selenium",
+          "API REST",
+          "JSON",
+          "Postman",
+          "Power BI",
+          "Tableau"
+        ]
+      }
+    ]
+  },
+  "competence": {
+    "tech": "Compétences Techniques",
+
+    "topicProgramming": "Programmation & Développement",
+    "topicData": "Data, BI & Analyse",
+    "topicDB": "Bases de données",
+    "topicModeling": "Modélisation & Conception",
+    "topicIA": "IA & Machine Learning",
+    "topicDevOps": "Cloud & DevOps",
+    "topicTool": "Bureautique & Outils",
+
+    "programming": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "Java",
+      "React",
+      "HTML5",
+      "CSS3"
+    ],
+
+    "data": [
+      "Power BI (DAX, Power Query)",
+      "Tableau",
+      "Excel avancé (formules, TCD), VBA",
+      "Dataiku",
+      "Nettoyage & préparation des données",
+      "KPI & reporting décisionnel"
+    ],
+
+    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Snowflake", "SQL Server"],
+
+    "modeling": [
+      "UML",
+      "MERISE",
+      "BPMN",
+      "Modélisation des données",
+      "Conception de bases de données"
+    ],
+
+    "ia": ["OpenAI", "LangChain", "TensorFlow", "PyTorch"],
+
+    "devOps": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Git",
+      "GitLab CI/CD",
+      "Jenkins",
+      "Linux",
+      "AWS",
+      "Azure"
+    ],
+
+    "tools": [
+      "Microsoft Office (Word, Excel, PowerPoint)",
+      "SharePoint",
+      "Notion"
+    ]
+  },
+  "experience": {
+    "title": "Expériences professionnelles",
+    "experience": [
+     
+      {
+        "title": "Développeur - Data Analyst",
+        "date": "Février 2025 - Août 2025",
+        "company": "ETS MOSAIK",
+        "location": "Yaoundé, Cameroun",
+        "link": "https://v2.laurata.com/",
+        "detail": [
+          "Analyse des données utilisateurs et partenaires",
+          "Conception de dashboards Power BI et création de KPI",
+          "Structuration et exploitation de la base PostgreSQL à des fins analytiques",
+          "Amélioration du pilotage de l’activité via des tableaux de bord",
+          "Contribution au lancement de la version 2 de la plateforme"
+        ],
+        "stack": [
+          "Next.js",
+          "Power BI",
+          "DAX",
+          "PostgreSQL",
+          "Java",
+          "SCRUM",
+          "Trello"
+        ]
+      },
+      {
+        "title": "Développeur Odoo & IA",
+        "date": "2024 - 2025",
+        "company": "Y-Note",
+        "location": "Yaoundé, Cameroun",
+        "link": "https://www.cloudfacile.com/",
+        "detail": [
+          "Développement de modules métiers sur l’ERP Odoo",
+          "Développement d’un chatbot intégré à Odoo pour guider les utilisateurs",
+          "Automatisation de processus et intégration de modules IA (API OpenAI)",
+          "Maintenance, support et gestion des environnements Dev/Test/Prod",
+          "Collaboration en environnement Agile"
+        ],
+        "stack": [
+          "Python",
+          "Odoo",
+          "PostgreSQL",
+          "Excel",
+          "Redmine",
+          "Bitbucket",
+          "SCRUM"
+        ]
+      },
+      {
+        "title": "Stage – Assistant Data Analyst",
+        "date": "2023 - 2024",
+        "company": "SKLF-Group",
+     
+        "link": "https://www.test.sklfgroup.com/portfolio/",
+        "detail": [
+          "Analyse des besoins métiers",
+          "Conception de tableaux de bord Power BI pour le pilotage",
+          "Création de KPI décisionnels",
+          "Nettoyage, structuration et automatisation des données via SQL et Python",
+          "Automatisation des reportings et amélioration de la qualité des données"
+        ],
+        "stack": [
+          "Python",
+          "Power BI",
+          "DAX",
+          "PostgreSQL",
+          "MySQL",
+          "Excel",
+          "SCRUM",
+          "Trello"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projets & Réalisations",
+    "items": [
+      {
+        "name": "Football Analytics (Data Analyst)",
+        "date": "2026",
+        "description": "Étude et exploitation de données historiques de grande volumétrie. Modélisation orientée décisionnel, création de KPI et dashboards Power BI.",
+        "stack": ["Power BI", "DAX", "PostgreSQL", "Trello"],
+        "link": ""
+      },
+      {
+        "name": "MicroScript_v1 (Langage + IDE Web)",
+        "date": "2025",
+        "description": "Conception d’un langage de programmation en français avec IDE web : frontend React, backend Python, déploiement via Docker et Git.",
+        "stack": ["React", "Python", "Docker", "Git"],
+        "link": "https://github.com/Authmercy/MicroScript_v1"
+      }
+    ]
+  },
+  "school": {
+    "title": "Formations",
+    "bachelor": {
+      "degreeName": "Licence professionnelle – Conception et Développement d’Application",
+      "schoolName": "Institut Universitaire Saint Jean",
+      "place": "Yaoundé",
+      "date": "2021 - 2024",
+      "subject": [
+        "Architecture client-serveur",
+        "Développement d’API REST",
+        "Intégration front/back",
+        "Bases de données",
+        "Bases Big Data"
+      ]
+    },
+    "master": {
+      "degreeName": "Master 1 Informatique – Data & Intelligence Artificielle",
+      "schoolName": "Ecole-IT",
+      "place": "Amiens",
+      "date": "Depuis Septembre 2025",
+      "subject": [
+        "Python",
+        "Machine Learning",
+        "Big Data",
+        "Intelligence Artificielle"
+      ]
+    }
+  },
+  "assets": {
+    "title": "Atouts",
+    "items": [
+      "Esprit d’initiative",
+      "Autonomie et rigueur",
+      "Esprit analytique",
+      "Capacité d’adaptation",
+      "Souci du détail",
+      "Communication",
+      "Collaboration et travail d’équipe"
+    ]
+  },
+  "interest": {
+    "title": "Centres d’intérêt",
+    "items": [
+      "Benevolat",
+      "Suivi des innovations technologiques",
+      "Voyage",
+      "Football",
+      "Baby-foot",
+      "Jeux vidéo",
+      "Lecture"
+    ]
+  },
+  "language": {
+    "title": "Langues",
+    "items": [
+      { "name": "Français", "level": "Bilingue" },
+      { "name": "Anglais", "level": "Bilingue" },
+      { "name": "Allemand", "level": "Notions" }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 NAHSANG MERCY TANGHAM",
+    "cta": "Disponible pour une alternance Data Analyst / BI (12 à 24 mois)."
+  }
+}
