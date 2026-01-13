@@ -234,7 +234,14 @@
         "description": "Conception d’un langage de programmation en français avec IDE web : frontend React, backend Python, déploiement via Docker et Git.",
         "stack": ["React", "Python", "Docker", "Git"],
         "link": "https://github.com/Authmercy/MicroScript_v1"
-      }
+      },
+            {
+  "name": "Bientot Disponible: Analyse de Performance Commerciale Pizzeria",
+  "date": "2026",
+  "description": "Projet d’analyse des données d’une pizzeria pour mesurer sa performance commerciale à l’aide de Power BI, SQL et DAX. Création de KPI tels que chiffre d’affaires, panier moyen, nombre de pizzas vendues, clients et commandes, pour fournir un tableau de bord interactif permettant un pilotage décisionnel efficace.",
+  "stack": ["Power BI", "SQL", "DAX"],
+  "link": "https://github.com/Authmercy/Power-BI-project"
+}
     ]
   },
   "school": {
